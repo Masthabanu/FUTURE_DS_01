@@ -174,3 +174,7 @@ Historical sales patterns can be used to improve inventory planning, promotional
 This project demonstrates the use of data cleaning, KPI analysis, visualization, business intelligence, and data-driven decision-making using Power BI.
 
 The dashboard provides a clear view of sales and profitability performance and helps identify areas where the business can focus its growth and improvement efforts.
+
+## Dashboard Preview:
+
+<img src="Dashboard.png" width="800">
