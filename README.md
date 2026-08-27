@@ -16,8 +16,6 @@ The objective of this project is to analyze business sales data and identify:
 - Regional performance
 - Profitability patterns
 
-The analysis was performed using the Superstore Sales dataset and Microsoft Power BI.
-
 ## 2. Business Objectives
 
 The main objectives of this project are:
@@ -37,7 +35,7 @@ Superstore Sales Dataset
 ## 4. Tools Used
 
 - Microsoft Power BI
-- Power Query
+- Microsoft Excel
 
 ## 5. Data Cleaning and Preparation
 
@@ -48,7 +46,7 @@ The following steps were performed:
 - Checked for missing values
 - Checked for errors
 - Reviewed data types
-- - Standardized the Order Date format using Text to Columns and MDY formatting to ensure dates were interpreted correctly
+- Standardized the Order Date format using Text to Columns and MDY formatting to ensure dates were interpreted correctly
 - Checked the structure of the dataset
 - Verified relevant columns
 - Prepared the data for dashboard analysis
