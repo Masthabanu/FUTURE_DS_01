@@ -48,6 +48,7 @@ The following steps were performed:
 - Checked for missing values
 - Checked for errors
 - Reviewed data types
+- - Standardized the Order Date format using Text to Columns and MDY formatting to ensure dates were interpreted correctly
 - Checked the structure of the dataset
 - Verified relevant columns
 - Prepared the data for dashboard analysis
